@@ -1,5 +1,5 @@
 ;compile then type start-snake to start.
-;the images used aren't includede.
+;the images used aren't include.
 
 
 #lang racket
